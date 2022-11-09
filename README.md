@@ -1,5 +1,6 @@
-# senai-hide
-Se esconde dos prof kapa kapa
+<p align="center">
+  <img src="./senaihide.png">
+</p>
 
 # Ideia do jooj
 - jogo onde voce esta jogando minecraft na sala de aula e quando um professor aparece voce precisa dar alt tab
