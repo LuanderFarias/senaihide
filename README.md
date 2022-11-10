@@ -9,3 +9,4 @@
 - gustavo: Deslige o monitor
 - raquel: alt tab até o programa "logisim"
 - alex: Finja escrever no caderno
+- edjalma: Finja escrever no caderno
