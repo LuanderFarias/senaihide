@@ -16,6 +16,7 @@
 - alex: Feche a porta
 - edjalma: Finja escrever no caderno
 - segurança: apague as luzes
+- vinicius: abaixar o som
 
 #### Ideias:
 - apos a porta ficar um tempo fechada o segurança vem e abre
@@ -25,6 +26,7 @@
 
 #### Referencias
 - Paper mario
+- Stardew valley
 
 ## Porque?
 Nossa atividade é desenvolver um jogo usando python, tivemos essa ideia apos citar tipos de jogos que gostariamos de fazer. Apos muita discussão sobre criar um jogo de dungeon, carros e até mesmo uma especie de "Geometric Dash", decidimos fazer este projeto que retrada o que aconte... digo o que nunca, jamais aconteceu no senai...
