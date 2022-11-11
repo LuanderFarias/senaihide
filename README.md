@@ -26,3 +26,10 @@ Que esse jogo é uma atividade divertida nenhum de nós tem a menor duvida. Por 
 Sabemos que essa ideia tem muito potencial e por isso talvez realmente criaremos uma versão seria desse jogo. Adoramos a ideia dele e estamos adorando desenvolvelo, porem nenhum de nós tem o menor conhecimento de python e pelo que vimos é uma linguagem um pouco limitada para o que pretendemos fazer... Futuramente pretendemos criar um jogo com mais inimigos, fases, poderes e tudo mais que vier na nosssa cabeça. Com uma linguagem que conhecemos bem (afinal dois de nós ja fizeram jogos e ja trabalhavam com desenvolvimento), sprites melhorados, musicas proprias e mais. Esperamos poder realizar esse jogo da atividade e se possivel a versão verdadeira da ideia do jogo feito baseado na nossa preguiça na sala de aula :)
 
 <h6>possivel nome do futuro jogo: "Don't play at class"</h6>
+
+## Time de dev's
+
+| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/ilunnie.png?size=115" width=115><br><sub>@Ilunnie</sub>](https://github.com/ilunnie) | [<img src="https://github.com/ilunnie.png?size=115" width=115><br><sub>@AndreCoelho</sub>](https://github.com/luanderfarias/senaihide) |
+| :---: | :---: | :---: |
+
+#### Obrigado por ler 🕹
