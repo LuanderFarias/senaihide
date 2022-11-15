@@ -7,20 +7,23 @@ pygame.init()
 largura = 640
 altura = 480
 
-playerx = 200
-playery = 300
+playerx = largura/2
+playery = altura/2
+
+clock = pygame.time.Clock()
 
 tela = pygame.display.set_mode((largura, altura))
 pygame.display.set_caption('Senaihide')
 
 while True:
+    clock.tick(60)
     tela.fill((255,255,255))
     for event in pygame.event.get():
         if event.type == QUIT:
             pygame.quit()
             exit()
         pygame.draw.rect(tela, (255,0,0), (playerx,playery,50,50)) # edjalma
-        playerx = playerx - 1
+        playerx = playerx - 5
         if playerx <= 0:
           playerx = largura
         pygame.draw.circle(tela, (0,0,120), (300,260), 40)
