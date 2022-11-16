@@ -31,7 +31,7 @@ Sabemos que essa ideia tem muito potencial e por isso talvez realmente criaremos
 
 ## Time de dev's
 
-| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/ilunnie.png?size=115" width=115><br><sub>@Ilunnie</sub>](https://github.com/ilunnie) | [<img src="https://github.com/AndreParolin.png?size=115" width=115><br><sub>@AndreParolin</sub>](https://github.com/AndreParolin) | [<img src="https://github.com/RafaeldSilva777.png?size=115" width=115><br><sub>@RafaelSilva</sub>](https://github.com/RafaeldSilva777) | [<img src="https://github.com/ilunnie.png?size=115" width=115><br><sub>@JuanSantos</sub>](https://github.com/luanderfarias/senaihide) |
+| [<img src="https://github.com/luanderfarias.png?size=115" width=115><br><sub>@LuanderFarias</sub>](https://github.com/luanderfarias)| [<img src="https://github.com/ilunnie.png?size=115" width=115><br><sub>@Ilunnie</sub>](https://github.com/ilunnie) | [<img src="https://github.com/AndreParolin.png?size=115" width=115><br><sub>@AndreParolin</sub>](https://github.com/AndreParolin) | [<img src="https://github.com/RafaeldSilva777.png?size=115" width=115><br><sub>@RafaelSilva</sub>](https://github.com/RafaeldSilva777) | [<img src="https://github.com/JOJOreferency.png?size=115" width=115><br><sub>@JOJOreferency</sub>](https://github.com/JOJOreferency) |
 | :---: | :---: | :---: | :---: | :---: |
 
 #### Obrigado por ler 🕹
