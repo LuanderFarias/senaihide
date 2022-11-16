@@ -19,9 +19,9 @@
 - vinicius: abaixar o som
 
 ## Roadmap
-O desenvolvimento do senaihide seguira a seguinte rota:
-- Imagem
-- Mecanica
+O desenvolvimento do senaihide seguira a seguinte rota, sendo cada tarefa distribuida entre os cinco membros do grupo de desenvolvimento.
+- Imagems/sprites
+- Mecanicas
 - Codigo
 - Som
 
